@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectMia",
+			"Path": "C:\\Users\\mete4\\Documents\\GitHub\\ProjectMia\\ProjectMia\\Source\\ProjectMia.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectMiaEditor",
+			"Path": "C:\\Users\\mete4\\Documents\\GitHub\\ProjectMia\\ProjectMia\\Source\\ProjectMiaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

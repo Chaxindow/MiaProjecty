@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectMia-9316.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\ProjectMiaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMia\MiaChar.cpp.obj"
+"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMia\ProjectMia.cpp.obj"
+"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMia\MiaChar.gen.cpp.obj"
+"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMia\ProjectMia.init.gen.cpp.obj"
+"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMia\Default.rc2.res"
+/OUT:"C:\Users\mete4\Documents\GitHub\ProjectMia\ProjectMia\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMia\UnrealEditor-ProjectMia-9316.lib"
+/INCLUDE:IMPLEMENT_MODULE_ProjectMia

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectMia.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D6FC57FA-BD7F-4F12-84DB-DB22E6885DC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectMia.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectMiaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5B140EAB-ACDD-40E5-87D0-86F023CDB018}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectMia">
+      <UniqueIdentifier>{9BEC2278-D082-4482-A9F5-8C9F6FDCB10F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectMia\MiaChar.cpp">
+      <Filter>Source\ProjectMia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMia\MiaChar.h">
+      <Filter>Source\ProjectMia</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectMia\ProjectMia.Build.cs">
+      <Filter>Source\ProjectMia</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectMia\ProjectMia.cpp">
+      <Filter>Source\ProjectMia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectMia\ProjectMia.h">
+      <Filter>Source\ProjectMia</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
